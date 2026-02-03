@@ -1,0 +1,3 @@
+# Database files (stored in releases)
+*.sql
+*.sql.zip
